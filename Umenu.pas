@@ -1,3 +1,5 @@
+//Mohammad Reza Pour Emad
+
 unit Umenu;
 
 interface
@@ -121,7 +123,7 @@ if DataModule1.ADOConnection1.Connected= true then
 //LocalTell:=s2;
 
 except
-     ShowMessage('«— »«ÿ »« ”—Ê— »—ﬁ—«— ‰‘œ  ‰ŸÌ„«  ‘»òÂ —«ò‰ —· ò‰Ìœ');
+     ShowMessage('√á√ë√ä√à√á√ò √à√á √ì√ë√¶√ë √à√ë√û√ë√á√ë √§√î√è √ä√§√ô√≠√£√á√ä √î√àÀú√• √ë√áÀú√§√ä√ë√° Àú√§√≠√è');
      FormMenu.close;
 end;
 
